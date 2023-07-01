@@ -9,7 +9,7 @@
     "url": "https://hibzz.games/"
   },
   "dependencies": {
-    "com.hibzz.singletons": "https://github.com/hibzzgames/Hibzz.Singletons.git"
+    "https://github.com/hibzzgames/Hibzz.Singletons.git": "1.0.0"
   },
   "documentationUrl": "https://github.com/hibzzgames/Hibzz.DependencyTester/blob/main/README.md",
   "changelogUrl": "https://github.com/hibzzgames/Hibzz.DependencyTester/commits/",
