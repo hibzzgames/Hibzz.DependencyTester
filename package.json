@@ -8,9 +8,9 @@
     "email": "support@hibzz.games",
     "url": "https://hibzz.games/"
   },
-  "dependencies": {
-    "https://github.com/hibzzgames/Hibzz.Singletons.git": "1.0.0"
-  },
+  "git-dependencies": [
+    "https://github.com/hibzzgames/Hibzz.DependencyTester.git"
+  ],
   "documentationUrl": "https://github.com/hibzzgames/Hibzz.DependencyTester/blob/main/README.md",
   "changelogUrl": "https://github.com/hibzzgames/Hibzz.DependencyTester/commits/",
   "licensesUrl": "https://github.com/hibzzgames/Hibzz.DependencyTester/blob/main/LICENSE.md"
